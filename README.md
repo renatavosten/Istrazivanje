@@ -1,2 +1,2 @@
-# Istra-ivanje
+# Istrazivanje
 Istraživanje
